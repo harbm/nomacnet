@@ -8,3 +8,9 @@ This project draws inspiration from Dream Theater's captivating 2016 concept alb
 <img width="483" alt="Screenshot 2023-05-16 at 9 34 40 PM" src="https://github.com/harbm/nomacnet/assets/10700203/d72d09a6-e70a-4bf0-b9a5-867e316a3226">
 
 A NOMAC, floating around, being cacophonic.
+
+
+<div align="center">
+  <img width="483" alt="Screenshot 2023-05-16 at 9 34 40 PM" src="https://github.com/harbm/nomacnet/assets/10700203/d72d09a6-e70a-4bf0-b9a5-867e316a3226">
+  <p align="center">A NOMAC, floating around, being cacophonic.</p>
+</div>
